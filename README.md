@@ -1,8 +1,8 @@
 ### Hi there, I'm Danny! 👋
 
-I recently graduated from 
+From calculating the age of the universe using astronomical surveys, to predicting the outcome of football matches using ML algorithms, I'm passionate about all things data. My fascinatation with the topic started in the second year of my Theoretical Physics degree when I 
 
-Whether it's using astronomical data to calculate the age of the universe, or using football data to predict the outcome of matches, I'm passionate about all things data. 
+using football data to predict the outcome of matches, I'm passionate about all things data. 
 
 
 predicting football results using trained algorithms, I'm passionate about all things data! My a
