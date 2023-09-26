@@ -1,4 +1,11 @@
-# Hi there, I'm Danny! 👋
+### Hi there, I'm Danny! 👋
+
+I recently graduated from 
+
+Whether it's using astronomical data to calculate the age of the universe, or using football data to predict the outcome of matches, I'm passionate about all things data. 
+
+
+predicting football results using trained algorithms, I'm passionate about all things data! My a
 
 ## Languages!
 
