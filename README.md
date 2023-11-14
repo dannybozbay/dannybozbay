@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CERN Data: Gradient Boosting](https://github.com/dannybozbay/CERN-Gradient-Boosting)
 
-- 📝 I regularly write articles on [medium](https://dannybozbay.medium.com)
+- 📝 I will begin writing articles on [medium](https://dannybozbay.medium.com) soon. Stay tuned!
 
 - 📫 How to reach me **dannybozbay@gmail.com**
 
